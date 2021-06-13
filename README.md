@@ -46,4 +46,3 @@ b = input()
 print (int(a//b))
 print float(a) / b
 
-4.Task
